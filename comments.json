@@ -6,5 +6,9 @@
     {
         "author": "Jane Doe",
         "text": "Hello"
+    },
+    {
+        "author": "Pete Hunt",
+        "text": "Hej"
     }
 ]
